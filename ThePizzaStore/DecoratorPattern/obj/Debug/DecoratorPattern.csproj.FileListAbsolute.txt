@@ -1,0 +1,15 @@
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\App.g.cs
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.cache
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.lref
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.g.resources
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.Properties.Resources.resources
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.GenerateResource.cache
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\MainPizzaStoreView.g.cs
+D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\MainPizzaStoreView.baml
