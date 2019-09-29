@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\obj\Debug\
-DecoratorPattern
+D:\Projects\C#\MyProjects\PizzaStore\ThePizzaStore\DecoratorPattern\obj\Debug\
+DecoratorPattern.Views
 none
 false
 DEBUG;TRACE
-D:\Projects\C#\MyProjects\Decorator\DecoratorPattern\DecoratorPattern\App.xaml
-12024916196
+D:\Projects\C#\MyProjects\PizzaStore\ThePizzaStore\DecoratorPattern\App.xaml
+5-1456340520
 
-42-515003444
+46114237138
 13-1505183044
-MainPizzaStoreView.xaml;
+Resources\CustomResources.xaml;Views\InStorePortalView.xaml;Views\MainPizzaStoreView.xaml;Views\StoreManagerViews\OrderDetailsView.xaml;Views\StoreManagerViews\OrderUpdateViewArea.xaml;
 
 False
 
